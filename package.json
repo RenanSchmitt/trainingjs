@@ -1,0 +1,19 @@
+{
+  "name": "trainingjs",
+  "version": "1.0.0",
+  "description": "Repositório de estudos baseado no curso de Javascript do Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanSchmitt/trainingjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanSchmitt/trainingjs/issues"
+  },
+  "homepage": "https://github.com/RenanSchmitt/trainingjs#readme"
+}
